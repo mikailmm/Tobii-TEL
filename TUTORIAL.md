@@ -1,8 +1,8 @@
-TUTORIAL Tobii
+# TUTORIAL Tobii
 Baca "Panduan Lab T-EL untuk Tobii Pro Nano"
  
  
-TUTORIAL Instalasi Script Python
+# TUTORIAL Instalasi Script Python
  
 1. Gunakan Python versi 3.10 (check versi python --version)
 2. Buat virtual env
@@ -14,10 +14,11 @@ TUTORIAL Instalasi Script Python
 
 (optional) Install ffmpeg untuk pydub
 
-TUTORIAL Penggunaan
+# TUTORIAL Penggunaan
 Lihat help untuk CLI tobii_script.py
 	(python tobii_script.py --help)
 
+# TUTORIAL Kalibrasi
 Disarankan untuk kalibrasi untuk setiap subjek/sesi
 Contoh: Melakukan kalibrasi untuk subjek A, jika dalam satu sesi mengambil data dari Subjek A, tidak perlu lakukan kalibrasi lagi.
 Contoh: Melakukan kalibrasi untuk subjek A, kemudian A meninggalkan tempat, sebelum mengambil data perlu kalibrasi lagi
