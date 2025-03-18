@@ -24,7 +24,7 @@ Contoh: Melakukan kalibrasi untuk subjek A, kemudian A meninggalkan tempat, sebe
 Contoh: Melakukan kalibrasi untuk subjek A, kemudian lanjut ke subjek B, perlu kalibrasi lagi sebelum mengambil data
 
 Contoh Penggunaan
-`python tobii_script.py --calibrate -d 30 --output-csv data_subject_1.csv --save-screenshot
-`
+`python tobii_script.py --calibrate -d 30 --output-csv data_subject_1.csv --save-screenshot`
+
 `--calibrate` = berarti dikalibrasi sebelum mengambil data
 `-d 30` = durasi 30 (bisa -`d` atau `--duration`)
