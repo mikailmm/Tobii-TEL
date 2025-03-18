@@ -22,6 +22,7 @@ Contoh Penggunaan
 `python tobii_script.py --calibrate -d 30 --output-csv data_subject_1.csv --save-screenshot`
 
 `--calibrate` = berarti dikalibrasi sebelum mengambil data
+
 `-d 30` = durasi 30 (bisa -`d` atau `--duration`)
 
 
